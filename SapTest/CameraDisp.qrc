@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/CameraDisp">
+        <file>Resources/AMOLED.qss</file>
+        <file>Resources/psblack.qss</file>
+    </qresource>
+</RCC>
